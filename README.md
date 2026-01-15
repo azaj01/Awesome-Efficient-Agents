@@ -1,6 +1,6 @@
 <h1 align="center">Awesome Efficient Agents: A Survey of Memory, Tool Learning, and Planning</h1>
 
-## ⚡introduction
+## ⚡Introduction
 
 Recent years have seen growing interest in extending large language models into agentic systems. While agent capabilities have advanced rapidly, efficiency has received comparatively less attention despite being crucial for real-world deployment. This repository studies efficiency-guided agent design from three core components: memory, tool learning, and planning.
 
@@ -212,8 +212,14 @@ In the paper, we organize memory into construction, management, and access. Sinc
 #### Tool Selection
 
 <a name="external-retriever"></a>
+
 #####  External Retriever
 
+* (2025-10) [ToolScope: Enhancing LLM Agent Tool Use through Tool Merging and Context-Aware Filtering](https://arxiv.org/abs/2510.20036) 
+
+* (2024-10) [Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases](https://arxiv.org/abs/2410.14594) ![ICAART](https://img.shields.io/badge/ICAART%202025-blue)  [![Star](https://img.shields.io/github/stars/EliasLumer/Toolshed-Scale-Tool-Equipped-Agents-with-Advanced-RAG-Tool-Fusion-and-Tool-Knowledge-Bases.svg?style=social&label=Star)](https://github.com/EliasLumer/Toolshed-Scale-Tool-Equipped-Agents-with-Advanced-RAG-Tool-Fusion-and-Tool-Knowledge-Bases)
+* (2024-10) [From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions](https://arxiv.org/abs/2410.08197) ![ICLR](https://img.shields.io/badge/ICLR%202025%20oral-blue)  [![Star](https://img.shields.io/github/stars/quchangle1/DRAFT.svg?style=social&label=Star)](https://github.com/quchangle1/DRAFT)
+* (2024-02) [AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls](https://arxiv.org/abs/2402.04253) ![ICML](https://img.shields.io/badge/ICML%202024-blue)  [![Star](https://img.shields.io/github/stars/dyabel/AnyTool.svg?style=social&label=Star)](https://github.com/dyabel/AnyTool)
 * (2023-12) [ProTIP: Progressive Tool Retrieval Improves Planning](https://arxiv.org/abs/2312.10332) ![EACL 2024 Workshop](https://img.shields.io/badge/EACL%202024%20Workshop-blue)
 
 <a name="multi-label-classification-mlc"></a>
@@ -284,7 +290,6 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 * (2025-09) [TableMind: An Autonomous Programmatic Agent for Tool-Augmented Table Reasoning](https://arxiv.org/abs/2509.06278) ![WSDM 2026](https://img.shields.io/badge/WSDM%202026-blue) [![Star](https://img.shields.io/github/stars/lennendd/TableMind.svg?style=social&label=Star)](https://github.com/lennendd/TableMind)
 * (2025-02) [SMART: Self-Aware Agent for Tool Overuse Mitigation](https://arxiv.org/abs/2502.11435) ![ACL 2025 Findings](https://img.shields.io/badge/ACL%202025%20Findings-blue) [![Star](https://img.shields.io/github/stars/qiancheng0/Open-SMARTAgent.svg?style=social&label=Star)](https://github.com/qiancheng0/Open-SMARTAgent)
-* (2024-07) [Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning](https://arxiv.org/abs/2407.10718) [![Star](https://img.shields.io/github/stars/Ag2S1/Sibyl-System.svg?style=social&label=Star)](https://github.com/Ag2S1/Sibyl-System)
 * (2024-03) [Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models](https://arxiv.org/abs/2403.12881) ![ACL 2024 Findings](https://img.shields.io/badge/ACL%202024%20Findings-blue) [![Website](https://img.shields.io/badge/Website-Project-green)](https://internlm.github.io/Agent-FLAN/)  [![Star](https://img.shields.io/github/stars/InternLM/Agent-FLAN.svg?style=social&label=Star)](https://github.com/InternLM/Agent-FLAN)
 
 <a name="cost-aware-policy-optimization"></a>
