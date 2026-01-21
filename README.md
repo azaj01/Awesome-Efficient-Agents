@@ -1,7 +1,8 @@
 <h1 align="center">Awesome Efficient Agents: A Survey of Memory, Tool Learning, and Planning</h1>
 <div align="center">
-  <a href="https://arxiv.org/abs/2601.14192"><img src="https://img.shields.io/badge/arXiv-2601.14192-b31b1b.svg?logo=arxiv&logoColor=white" alt="arXiv"></a>
-  <a href="https://efficient-agents.github.io/"><img src="https://img.shields.io/badge/Project%20Page-efficient--agents.github.io-2ea44f.svg?logo=googlehome&logoColor=white" alt="Project Page"></a>
+  <a href="https://arxiv.org/abs/2601.14192"><img src="https://img.shields.io/badge/arXiv-2601.14192-b31b1b.svg?logo=arxiv" alt="arXiv"></a>
+  <a href="https://efficient-agents.github.io/"><img src="https://img.shields.io/badge/Project%20Page-efficient--agents.github.io-1E88E5.svg?logo=googlehome&logoColor=1E88E5" alt="Project Page"></a>
+    <a href="https://huggingface.co/papers/2601.14192"><img src="https://img.shields.io/badge/Hugging%20Face-Paper-ffcc4d.svg?logo=huggingface" alt="Hugging Face Paper"></a>
 </div>
 
 
