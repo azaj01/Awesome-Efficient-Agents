@@ -22,7 +22,7 @@ We provide a curated paper list to help readers quickly locate representative wo
 
 ## 🧾Paper List
 
-<details>
+<details open>
   <summary>📂 Table of Contents<em>(click to expand/collapse)</em></summary>
   <ul>
     <li><a href="#memory">🧠Memory</a>
@@ -95,8 +95,18 @@ We provide a curated paper list to help readers quickly locate representative wo
         </li>
       </ul>
     </li>
+    <li><a href="#related-survey">📑Related Surveys</a>
+      <ul>
+        <li><a href="#memory-survey">Memory Survey</a></li>
+        <li><a href="#tool-learning-survey">Tool Learning Survey</a></li>
+        <li><a href="#planning-survey">Planning and Reasoning Survey</a></li>
+      </ul>
+    </li>
   </ul>
 </details>
+
+
+
 
 <a name="memory"></a>
 
@@ -414,7 +424,38 @@ In the paper, we organize memory into construction, management, and access. Sinc
 * (2025-06) [Debate, Reflect, and Distill: Multi-Agent Feedback with Tree-Structured Preference Optimization for Efficient Language Model Enhancement](https://arxiv.org/abs/2506.03541) ![ACL 2025 Findings](https://img.shields.io/badge/ACL%202025%20Findings-blue) [![Star](https://img.shields.io/github/stars/zhouxiaofengshelf/D-R.svg?style=social&label=Star)](https://github.com/zhouxiaofengshelf/D-R)
 * (2024-02) [MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models](https://arxiv.org/abs/2402.01620) ![ICML 2024](https://img.shields.io/badge/ICML%202024-blue) [![Star](https://img.shields.io/github/stars/dinobby/MAGDi.svg?style=social&label=Star)](https://github.com/dinobby/MAGDi)
 
+<a name="related-survey"></a>
+
+### 📑Related Surveys
+
+Given that our work mainly focuses on efficiency, which is rooted in effectiveness, we’ve gathered a list of related survey papers to offer a complementary perspective. We hope this will help bring visibility to some valuable surveys that deserve more attention.💡
+
+<a name="memory-survey"></a>
+
+#### Memory Survey
+
+* (2026-01) [Survey on AI Memory: Theories, Taxonomies, Evaluations, and Emerging Trends](https://baijia.online/homepage/survey/Survey%20on%20AI%20Memory.pdf) [![Star](https://img.shields.io/github/stars/BAI-LAB/Survey-on-AI-Memory.svg?style=social&label=Star)](https://github.com/BAI-LAB/Survey-on-AI-Memory)
+* (2025-12)  [Memory in the Age of AI Agents](https://arxiv.org/abs/2512.13564) [![Star](https://img.shields.io/github/stars/Shichun-Liu/Agent-Memory-Paper-List.svg?style=social&label=Star)](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
+* (2025-05)  [Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions](https://arxiv.org/abs/2505.00675v2) [![Star](https://img.shields.io/github/stars/Elvin-Yiming-Du/Survey_Memory_in_AI.svg?style=social&label=Star)](https://github.com/Elvin-Yiming-Du/Survey_Memory_in_AI)
+* (2025-04) [From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs](https://arxiv.org/abs/2504.15965) 
+* (2024-04) [A Survey on the Memory Mechanism of Large Language Model based Agents](https://arxiv.org/abs/2404.13501) [![Star](https://img.shields.io/github/stars/nuster1128/LLM_Agent_Memory_Survey.svg?style=social&label=Star)](https://github.com/nuster1128/LLM_Agent_Memory_Survey)
+
+<a name="tool-learning-survey"></a>
+
+#### Tool Learning Survey
+
+* (2024-05) [Tool Learning with Large Language Models: A Survey](https://arxiv.org/abs/2405.17935) [![Star](https://img.shields.io/github/stars/quchangle1/LLM-Tool-Survey.svg?style=social&label=Star)](https://github.com/quchangle1/LLM-Tool-Survey)
+
+<a name="planning-survey"></a>
+
+#### Planning and Reasoning Survey
+
+* (2025-08) [LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios](https://arxiv.org/abs/2508.17692)
+* (2024-02) [Understanding the planning of LLM agents: A survey](https://arxiv.org/abs/2402.02716)
+
+
 ## 📌Citation
+
 If you find this survey useful, please cite:
 ```bibtex
 @misc{yang2026efficientagentsmemorytool,
