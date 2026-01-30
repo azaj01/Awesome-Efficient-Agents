@@ -172,6 +172,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Graph-based Memory
 
+* (2026-01) [MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents](https://arxiv.org/abs/2601.03236) [![Star](https://img.shields.io/github/stars/FredJiang0324/MAMGA.svg?style=social&label=Star)](https://github.com/FredJiang0324/MAMGA)
 * (2025-10) [D-SMART: Enhancing LLM Dialogue Consistency via Dynamic Structured Memory And Reasoning Tree](https://arxiv.org/abs/2510.13363) 
 * (2025-04) [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413) [![Star](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social&label=Star)](https://github.com/mem0ai/mem0)
 * (2025-01) [Zep: A Temporal Knowledge Graph Architecture for Agent Memory](https://arxiv.org/abs/2501.13956) [![Star](https://img.shields.io/github/stars/getzep/zep.svg?style=social&label=Star)](https://github.com/getzep/zep) 
@@ -337,10 +338,12 @@ In the paper, we organize memory into construction, management, and access. Sinc
 #### Single-Agent Planning Efficiency
 
 <a name="adaptive-budgeting-and-control"></a>
+
 #####  Adaptive Budgeting and Control
 
 * (2025-11) [Budget-Aware Tool-Use Enables Effective Agent Scaling](https://arxiv.org/abs/2511.17006)
 * (2025-09) [Learning When to Plan: Efficiently Allocating Test-Time Compute for LLM Agents](https://arxiv.org/abs/2509.03581) 
+* (2025-06) [Query-Level Uncertainty in Large Language Models](https://arxiv.org/abs/2506.09669)  [![Star](https://img.shields.io/github/stars/tigerchen52/query_level_uncertainty.svg?style=social&label=Star)](https://github.com/tigerchen52/query_level_uncertainty)
 * (2023-12) [ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent](https://arxiv.org/abs/2312.10003) ![ICLR 2024 Workshop](https://img.shields.io/badge/ICLR%202024%20Workshop-blue) 
 * (2023-05) [SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://arxiv.org/abs/2305.17390) ![NeurIPS](https://img.shields.io/badge/NeurIPS%202023%20spotlight-blue) [![Website](https://img.shields.io/badge/Website-Project-green)](https://swiftsage.github.io/)  [![Star](https://img.shields.io/github/stars/SwiftSage/SwiftSage.svg?style=social&label=Star)](https://github.com/SwiftSage/SwiftSage)
 * (2023-03) [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) ![NeurIPS](https://img.shields.io/badge/NeurIPS%202023-blue) [![Star](https://img.shields.io/github/stars/noahshinn/reflexion.svg?style=social&label=Star)](https://github.com/noahshinn/reflexion)
@@ -359,6 +362,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Task Decomposition
 
+* (2025-12) [Video-Browser: Towards Agentic Open-web Video Browsing](https://arxiv.org/abs/2512.23044)  [![Star](https://img.shields.io/github/stars/chrisx599/Video-Browser.svg?style=social&label=Star)](https://github.com/chrisx599/Video-Browser) ![Multimodal](https://img.shields.io/badge/Multimodal-9B8CFF?style=flat)
 * (2025-05) [Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution](https://arxiv.org/abs/2505.20286)  [![Star](https://img.shields.io/github/stars/CharlesQ9/Alita.svg?style=social&label=Star)](https://github.com/CharlesQ9/Alita)
 * (2025-03) [ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks](https://arxiv.org/abs/2503.02390) ![EMNLP 2025](https://img.shields.io/badge/EMNLP%202025-blue) [![Star](https://img.shields.io/github/stars/hengzzzhou/ReSo.svg?style=social&label=Star)](https://github.com/hengzzzhou/ReSo)
 * (2024-11) [BudgetMLAgent: A Cost-Effective LLM Multi-Agent system for Automating Machine Learning Tasks](https://arxiv.org/abs/2411.07464) ![AIMLSystems 2024](https://img.shields.io/badge/AIMLSystems%202024-blue)
