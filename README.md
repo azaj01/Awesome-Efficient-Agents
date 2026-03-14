@@ -6,6 +6,8 @@
 </div>
 
 
+We are planning to release a new revision of our survey next month (April). Any suggestions or ideas would be greatly appreciated!
+
 🤝 **Contributions welcome!** Open an issue or submit a pull request to add papers, fix links, or improve categorization.
 
 ## ⚡Introduction
