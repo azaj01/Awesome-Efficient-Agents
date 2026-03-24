@@ -154,6 +154,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Item-based Memory
 
+* (2026-03) [Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval](https://arxiv.org/abs/2603.09250) ![ICLR](https://img.shields.io/badge/ICLR%202026-blue) [![Star](https://img.shields.io/github/stars/Zhang-Yingyi/ICLR2026_RF-Mem.svg?style=social&label=Star)](https://github.com/Zhang-Yingyi/ICLR2026_RF-Mem)
 * (2026-01) [MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory](https://arxiv.org/abs/2601.03192)  [![Star](https://img.shields.io/github/stars/MemTensor/MemRL.svg?style=social&label=Star)](https://github.com/MemTensor/MemRL) 
 * (2025-10) [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/abs/2510.04618) [![Star](https://img.shields.io/github/stars/ace-agent/ace.svg?style=social&label=Star)](https://github.com/ace-agent/ace) 
 * (2025-09) [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140) 
@@ -161,6 +162,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 * (2025-08) [Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/abs/2508.16153) [![Star](https://img.shields.io/github/stars/Agent-on-the-Fly/Memento.svg?style=social&label=Star)](https://github.com/Agent-on-the-Fly/Memento)
 * (2025-07) [Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving](https://arxiv.org/abs/2507.06229) ![ICML 2025 Workshop](https://img.shields.io/badge/ICML%202025%20Workshop-blue) [![Star](https://img.shields.io/github/stars/OPPO-PersonalAI/Agent-KB.svg?style=social&label=Star)](https://github.com/OPPO-PersonalAI/Agent-KB)
 * (2025-06) [Cost-Efficient Serving of LLM Agents via Test-Time Plan Caching(Agentic Plan Caching: Test-Time Memory for Fast and Cost-Efficient LLM Agents)](https://arxiv.org/abs/2506.14852) ![NeurIPS](https://img.shields.io/badge/NeurIPS%202025-blue) 
+* (2025-05) [From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents](https://arxiv.org/abs/2505.19549) ![ICLR](https://img.shields.io/badge/ICLR%202026-blue) [![Star](https://img.shields.io/github/stars/quqxui/MemGAS.svg?style=social&label=Star)](https://github.com/quqxui/MemGAS)
 * (2025-04) [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413) [![Star](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social&label=Star)](https://github.com/mem0ai/mem0)
 * (2025-03) [MemInsight: Autonomous Memory Augmentation for LLM Agents](https://arxiv.org/abs/2503.21760) ![EMNLP](https://img.shields.io/badge/EMNLP%202025-blue) [![Star](https://img.shields.io/github/stars/amazon-science/MemInsight.svg?style=social&label=Star)](https://github.com/amazon-science/MemInsight)
 * (2025-03) [In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents](https://arxiv.org/abs/2503.08026) ![ACL](https://img.shields.io/badge/ACL%202025-blue)
