@@ -354,6 +354,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Adaptive Budgeting and Control
 
+* (2026-03) [SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning](https://arxiv.org/abs/2603.23483) [![Star](https://img.shields.io/github/stars/MAC-AutoML/SpecEyes.svg?style=social&label=Star)](https://github.com/MAC-AutoML/SpecEyes) ![Multimodal](https://img.shields.io/badge/Multimodal-9B8CFF?style=flat)
 * (2025-11) [Budget-Aware Tool-Use Enables Effective Agent Scaling](https://arxiv.org/abs/2511.17006)
 * (2025-09) [Learning When to Plan: Efficiently Allocating Test-Time Compute for LLM Agents](https://arxiv.org/abs/2509.03581) 
 * (2025-06) [Query-Level Uncertainty in Large Language Models](https://arxiv.org/abs/2506.09669)  [![Star](https://img.shields.io/github/stars/tigerchen52/query_level_uncertainty.svg?style=social&label=Star)](https://github.com/tigerchen52/query_level_uncertainty)
