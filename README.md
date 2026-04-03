@@ -6,7 +6,7 @@
 </div>
 
 
-We are planning to release a new revision of our survey next month (April). Any suggestions or ideas would be greatly appreciated!
+We’re currently planning to launch the revised version of our survey around April or May 🥹📋 Any suggestions or ideas would be greatly appreciated! 💡🙌
 
 🤝 **Contributions welcome!** Open an issue or submit a pull request to add papers, fix links, or improve categorization.
 
