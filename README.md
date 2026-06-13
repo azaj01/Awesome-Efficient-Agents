@@ -153,7 +153,6 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 * (2026-03) [Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval](https://arxiv.org/abs/2603.09250) ![ICLR](https://img.shields.io/badge/ICLR%202026-blue) [![Star](https://img.shields.io/github/stars/Zhang-Yingyi/ICLR2026_RF-Mem.svg?style=social&label=Star)](https://github.com/Zhang-Yingyi/ICLR2026_RF-Mem)
 * (2026-01) [SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553) [![Star](https://img.shields.io/github/stars/aiming-lab/SimpleMem.svg?style=social&label=Star)](https://github.com/aiming-lab/SimpleMem)
-* (2026-01) [SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553) [![Star](https://img.shields.io/github/stars/aiming-lab/SimpleMem.svg?style=social&label=Star)](https://github.com/aiming-lab/SimpleMem)
 * (2026-01) [MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory](https://arxiv.org/abs/2601.03192)  [![Star](https://img.shields.io/github/stars/MemTensor/MemRL.svg?style=social&label=Star)](https://github.com/MemTensor/MemRL) 
 * (2025-10) [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/abs/2510.04618) [![Star](https://img.shields.io/github/stars/ace-agent/ace.svg?style=social&label=Star)](https://github.com/ace-agent/ace) 
 * (2025-09) [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140) 
